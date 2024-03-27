@@ -1,4 +1,3 @@
-# CFM Weather v0.4.0 マニュアル
 CFM Weather は、コミュニティFM向けの災害情報を収集する、Windows用アプリです。  
 [気象庁防災情報XMLフォーマット形式電文の公開（PULL型）](https://xml.kishou.go.jp/xmlpull.html#127) を取得して表示します。
 
